@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital@1&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 100%;
+    background: linear-gradient(247.85deg, rgba(127, 166, 223, 0.4) 28.7%, rgba(234, 240, 250, 0) 92.5%);
+}
+
+nav {
+    margin-top: 112px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.title-container {
+    width: 814px;
+    height: 64px;
+    background: #5CB3F2;
+    mix-blend-mode: darken;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title-container>span {
+    font-family: 'JetBrains Mono';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 66px;
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: 0.3em;
+    color: #000000;
+
+}
+
+main {
+    width: 100%;
+    margin-top: 36px;
+    display: flex;
+    flex-direction: column;
+    padding: 0 66px 8px 66px;
+}
+
+.btn-column {
+    width: 100%;
+}
+
+.btn-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 22px;
+}
+
+.btn-row>button{
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+}
+
+.btn-row>button>img {
+    margin-right: 12px;
+}
+
+.btn-row>span {
+    font-family: 'JetBrains Mono';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: 0.3em;
+}
+
+.img-row {
+    width: 100%;
+    margin-top: 344px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.img-exec {
+    width: 216px;
+    height: 181px;
+}
+
+.img-shared {
+    width: 141px;
+    height: 95px;
+}
