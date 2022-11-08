@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-
+    <script type="text/javascript" src="main.js"></script>
     <title>Shared Data</title>
 </head>
 
@@ -21,6 +21,23 @@
             <div class="btn-row">
                 <button><img src="./assets/icon_add_usuario.png" alt="Adicionar Usuário"></button>
                 <span>ADICIONAR USUÁRIO</span>
+            </div>
+            <div class="btn-row">
+                <form>
+                    <div class="form-column">
+                        <label for="">Usuário</label>
+                        <input type="text" id="nome" name="nome">
+                    </div>
+                    <div class="form-column">
+                        <label for="">Senha</label>
+                        <input type="password" id="senha" name="senha">
+                    </div>
+                    <div class="form-column btn-submit">
+                        <button onclick="adicionarUsuario()" type="button">
+                            <span class="btn-title" >Processar</span>
+                        </button>
+                    </div>
+                </form>
             </div>
             <div class="btn-row">
                 <button><img src="./assets/icon_bloquear_usuario.png" alt="Bloquear Usuário"></button>
