@@ -15,7 +15,7 @@ Crie uma pasta na raiz com o nome sharedata
 Baixe o script samba.sh pelo github.
 <ul>
   <li><a href="https://github.com/jcluz86/Paginaweb">Paginaweb</a></li>
-![alt text](https://github.com/jcluz86/Paginaweb/tree/master/Imagens/github.jpg "Tela de download do projeto no github")
+[![alt text](https://github.com/jcluz86/Paginaweb/tree/master/Imagens/github.jpg "Tela de download do projeto no github")
 
 ---
 Após baixar o arquivo, salve no servidor na pasta sharedata
