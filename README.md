@@ -15,8 +15,10 @@ Crie uma pasta na raiz com o nome sharedata
 Baixe o script samba.sh pelo github.
 <ul>
   <li><a href="https://github.com/jcluz86/Paginaweb">Paginaweb</a></li>
-
+</ul>
 ---
+
+## Insira imagens
 
 ![alt text](https://github.com/jcluz86/Paginaweb/tree/master/Imagens/github.jpg "Tela de download do projeto no github")
 
