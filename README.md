@@ -9,15 +9,17 @@
 Pelo terminal do seu Linux, instale o samba utilizando o comando abaixo para distribuições que utilizam o apt como gerenciador de pacotes.
 #apt install samba
 
+Crie uma pasta na raiz com o nome sharedata
+#mkdir sharedata
+
 Baixe o script samba.sh pelo github.
 <ul>
   <li><a href="https://github.com/jcluz86/Paginaweb">Paginaweb</a></li>
-
-  
-
-![alt text](https://github.com/fabianocostateixeira/eletricalc/blob/main/images/carro5.jpg "Imagem do carro JAC iEV40 adesivado com as marcas do projeto")
+![alt text](https://github.com/jcluz86/Paginaweb/tree/master/Imagens/github.jpg "Tela de download do projeto no github")
 
 ---
+Após baixar o arquivo, salve no servidor na pasta sharedata
+
 
 ## Insira vídeos
 
