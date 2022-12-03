@@ -12,10 +12,11 @@ Pelo terminal do seu Linux, instale o samba utilizando o comando abaixo para dis
 Crie uma pasta na raiz com o nome sharedata
 #mkdir sharedata
 
-## Insira imagens
-
-![alt text](https://github.com/jcluz86/Paginaweb/tree/master/Imagens/github.jpg "Tela de download do projeto no github")
-
+Baixe o script samba.sh pelo github.
+<ul>
+  <li><a href="https://github.com/jcluz86/Paginaweb">Paginaweb</a></li>
+</ul>
+![alt text](https://github.com/jcluz86/Paginaweb/blob/ac489e01a7bbe585ba9889ee6cce999a65bd442d/Imagens/github.jpg "Tela de download do projeto no github")
 ---
 ## Insira imagens
 
@@ -25,11 +26,7 @@ Crie uma pasta na raiz com o nome sharedata
 
 ---
 
-Baixe o script samba.sh pelo github.
-<ul>
-  <li><a href="https://github.com/jcluz86/Paginaweb">Paginaweb</a></li>
-</ul>
----
+
 
 
 
