@@ -1,8 +1,8 @@
-# Paginaweb
-## Um resumo é sempre importante
+# Sharedata
+## Breve resumo
 
-Lembre-se que as pessoas querem informações práticas, objetivas e, principalmente objetivas. Então, um bom resumo é a chave para conquitar o leitor para que ele continue acessando seu conteúdo
-
+O Sharedata tem como objetivo principal facilitar o compartilhamento de arquivos do samba, trazendo uma interface leve e intuitiva para que um leigo em informatica consiga utiliza-lo.
+Pode gastar seu tempo tomando um cafezinho ao invés de decorar comandos e permissões.
 ---
 
 ## Insira imagens
