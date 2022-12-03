@@ -6,10 +6,10 @@ Através de uma interface leve e intuitiva, um leigo em informática consegue ad
 Pode gastar seu tempo tomando um cafezinho ao invés de decorar comandos e permissões difíceis.
 ---
 
-## Instalando o Samba e dando e ajustando permissões
+### Instalando o Samba e dando e ajustando permissões
 
 Pelo terminal do seu Linux, instale o samba utilizando o comando abaixo para distribuições que utilizam o apt como gerenciador de pacotes.
-# apt install samba
+apt install samba
 ![alt text](https://github.com/fabianocostateixeira/eletricalc/blob/main/images/carro5.jpg "Imagem do carro JAC iEV40 adesivado com as marcas do projeto")
 
 ---
