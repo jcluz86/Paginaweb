@@ -9,11 +9,11 @@
 Pelo terminal do seu Linux, instale o samba. 
 Para distribuições que utilizam o apt como gerenciador de pacotes, utilize o comando abaixo.
 
-![alt text](https://github.com/jcluz86/Paginaweb/blob/74a140a7824bb8237050b850cd4a6b6bba6da938/Imagens/1.jpg )
+![alt text](https://github.com/jcluz86/Paginaweb/blob/657862dadfe1cd533dddf94e91486ad8014ee97c/Imagens/1.jpg )
 
 Crie uma pasta na raiz com o nome sharedata e dê as devidas permissões
 
-![alt text](https://github.com/jcluz86/Paginaweb/blob/74a140a7824bb8237050b850cd4a6b6bba6da938/Imagens/2.jpg "Tela de download do projeto no github")
+![alt text](https://github.com/jcluz86/Paginaweb/blob/657862dadfe1cd533dddf94e91486ad8014ee97c/Imagens/2.jpg "Tela de download do projeto no github")
 
 Baixe o script samba.sh pelo github e copie para a pasta sharedata.
 
@@ -21,13 +21,13 @@ Baixe o script samba.sh pelo github e copie para a pasta sharedata.
   <li><a href="https://github.com/jcluz86/Paginaweb">Paginaweb</a></li>
 </ul>
 
-![alt text](https://github.com/jcluz86/Paginaweb/blob/ac489e01a7bbe585ba9889ee6cce999a65bd442d/Imagens/3.jpg )
+![alt text](https://github.com/jcluz86/Paginaweb/blob/657862dadfe1cd533dddf94e91486ad8014ee97c/Imagens/3.jpg )
 
 ---
 
 Dê permissão de execução ao script
 
-![alt text](https://github.com/jcluz86/Paginaweb/blob/74a140a7824bb8237050b850cd4a6b6bba6da938/Imagens/4.jpg )
+![alt text](https://github.com/jcluz86/Paginaweb/blob/657862dadfe1cd533dddf94e91486ad8014ee97c/Imagens/4.jpg )
 
 
 
