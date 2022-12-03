@@ -19,7 +19,7 @@ Crie uma pasta na raiz com o nome sharedata
 ---
 ## Insira imagens
 
-![alt text](https://github.com/fabianocostateixeira/eletricalc/blob/main/images/carro5.jpg "Imagem do carro JAC iEV40 adesivado com as marcas do projeto")
+![alt text](https://github.com/fabianocostateixeira/eletricalc/blob/main/images/bikes1.jpg "Imagem do carro JAC iEV40 adesivado com as marcas do projeto")
 
 ---
 
