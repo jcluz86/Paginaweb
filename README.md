@@ -6,14 +6,17 @@
 
 ## Preparando o ambiente e baixando scripts
 
-Pelo terminal do seu Linux, instale o samba utilizando o comando abaixo para distribuições que utilizam o apt como gerenciador de pacotes.
+Pelo terminal do seu Linux, instale o samba. 
+Para distribuições que utilizam o apt como gerenciador de pacotes, utilize o comando abaixo.
+
 #apt install samba
 
 Crie uma pasta na raiz com o nome sharedata
 
-#mkdir sharedata
+![alt text](https://github.com/jcluz86/Paginaweb/blob/74a140a7824bb8237050b850cd4a6b6bba6da938/Imagens/1.jpg "Tela de download do projeto no github")
 
-Baixe o script samba.sh pelo github.
+Baixe o script samba.sh pelo github e copie para a pasta sharedata.
+
 <ul>
   <li><a href="https://github.com/jcluz86/Paginaweb">Paginaweb</a></li>
 </ul>
@@ -22,9 +25,12 @@ Baixe o script samba.sh pelo github.
 
 ---
 
-## Insira imagens
+Ajuste as permissões da pasta e script
 
-![alt text](https://github.com/jcluz86/Paginaweb/blob/ac489e01a7bbe585ba9889ee6cce999a65bd442d/Imagens/github.jpg "Imagem do carro JAC iEV40 adesivado com as marcas do projeto")
+![alt text](https://github.com/jcluz86/Paginaweb/blob/74a140a7824bb8237050b850cd4a6b6bba6da938/Imagens/2.jpg "Tela de download do projeto no github")
+
+
+
 
 ---
 
