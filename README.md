@@ -1,22 +1,20 @@
 # Sharedata
 ## Breve resumo
 
-<<<<<<< HEAD
-O Sharedata tem como objetivo principal facilitar o compartilhamento de arquivos do samba, trazendo uma interface leve e intuitiva para que um leigo em informatica consiga utiliza-lo.
-Pode gastar seu tempo tomando um cafezinho ao invés de decorar comandos e permissões.
-=======
-O Sharedata tem como objetivo principal facilitar o compartilhamento de arquivos no sistema operacional Linux. 
-Através de uma interface leve e intuitiva, um leigo em informática consegue administrar um fileserver.
-Pode gastar seu tempo tomando um cafezinho ao invés de decorar comandos e permissões difíceis.
->>>>>>> 395dbbc661cca65e16be29d3461ee944b3dc41ee
+# O Sharedata tem como objetivo principal facilitar o compartilhamento de arquivos do samba, trazendo uma interface leve e intuitiva para que um leigo em informatica consiga utiliza-lo. Pode gastar seu tempo tomando um cafezinho ao invés de decorar comandos e permissões.
 ---
 
-## Instalando o Samba e dando e ajustando permissões
+## Preparando o ambiente e baixando scripts
 
 Pelo terminal do seu Linux, instale o samba utilizando o comando abaixo para distribuições que utilizam o apt como gerenciador de pacotes.
 #apt install samba
 
-Baixe o script samba.sh pelo 
+Baixe o script samba.sh pelo github.
+<ul>
+  <li><a href="https://github.com/jcluz86/Paginaweb">Paginaweb</a></li>
+
+  
+
 ![alt text](https://github.com/fabianocostateixeira/eletricalc/blob/main/images/carro5.jpg "Imagem do carro JAC iEV40 adesivado com as marcas do projeto")
 
 ---
