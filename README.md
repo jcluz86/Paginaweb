@@ -29,29 +29,4 @@ Dê permissão de execução ao script
 
 ![alt text](https://github.com/jcluz86/Paginaweb/blob/657862dadfe1cd533dddf94e91486ad8014ee97c/Imagens/4.jpg )
 
-
-
-
----
-
-
-
-
-
-
-Após baixar o arquivo, salve no servidor na pasta sharedata
-
-
-## Insira vídeos
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/79ehBlsvnXg/0.jpg)](http://www.youtube.com/watch?v=79ehBlsvnXg)
-
----
-
-## Utilize HTML
-<ul>
-  <li><a href="https://www.pucpcaldas.br">PUC Minas</a></li>
-  <li><a href="https://www.aneel.gov.br">ANEEL</a></li>
-</ul>
-
 ---
