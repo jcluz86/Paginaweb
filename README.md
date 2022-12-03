@@ -12,12 +12,6 @@ Pelo terminal do seu Linux, instale o samba utilizando o comando abaixo para dis
 Crie uma pasta na raiz com o nome sharedata
 #mkdir sharedata
 
-Baixe o script samba.sh pelo github.
-<ul>
-  <li><a href="https://github.com/jcluz86/Paginaweb">Paginaweb</a></li>
-</ul>
----
-
 ## Insira imagens
 
 ![alt text](https://github.com/jcluz86/Paginaweb/tree/master/Imagens/github.jpg "Tela de download do projeto no github")
@@ -28,6 +22,14 @@ Baixe o script samba.sh pelo github.
 ![alt text](https://github.com/fabianocostateixeira/eletricalc/blob/main/images/carro5.jpg "Imagem do carro JAC iEV40 adesivado com as marcas do projeto")
 
 ---
+
+Baixe o script samba.sh pelo github.
+<ul>
+  <li><a href="https://github.com/jcluz86/Paginaweb">Paginaweb</a></li>
+</ul>
+---
+
+
 
 
 Após baixar o arquivo, salve no servidor na pasta sharedata
