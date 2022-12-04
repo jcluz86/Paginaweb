@@ -25,7 +25,15 @@ Baixe o script samba.sh pelo github e copie para a pasta sharedata.
 
 ---
 
-Dê permissão de execução ao script
+Dê permissão de execução ao script.
+
+![alt text](https://github.com/jcluz86/Paginaweb/blob/657862dadfe1cd533dddf94e91486ad8014ee97c/Imagens/4.jpg )
+
+Instale o dotnet
+
+![alt text](https://github.com/jcluz86/Paginaweb/blob/657862dadfe1cd533dddf94e91486ad8014ee97c/Imagens/4.jpg )
+
+Inicie o dotnet para criar uma instancia de pagina
 
 ![alt text](https://github.com/jcluz86/Paginaweb/blob/657862dadfe1cd533dddf94e91486ad8014ee97c/Imagens/4.jpg )
 
