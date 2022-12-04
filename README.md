@@ -29,20 +29,18 @@ Dê permissão de execução ao script.
 
 ![alt text](https://github.com/jcluz86/Paginaweb/blob/d92a638431846a929b90548a80e360d22ce45672/Imagens/4.jpg )
 
-Instale o dotnet
+Instale o dotnet.
 
 ![alt text](https://github.com/jcluz86/Paginaweb/blob/06e4e960cd2375f997ce79c6b02f36e407f2acde/Imagens/5.jpg )
 
-Crie uma nova instancia da aplicação dentro da pasta sharedata
+Crie uma nova instancia da aplicação dentro da pasta sharedata.
 
 ![alt text](https://github.com/jcluz86/Paginaweb/blob/06e4e960cd2375f997ce79c6b02f36e407f2acde/Imagens/6.jpg )
 
-Execute a nova instancia
+Execute a nova instancia.
 
 ![alt text](https://github.com/jcluz86/Paginaweb/blob/06e4e960cd2375f997ce79c6b02f36e407f2acde/Imagens/7.jpg )
 
-Inicie o dotnet para criar uma instancia de pagina
 
-![alt text](https://github.com/jcluz86/Paginaweb/blob/657862dadfe1cd533dddf94e91486ad8014ee97c/Imagens/4.jpg )
 
 ---
