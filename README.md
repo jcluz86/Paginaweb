@@ -15,7 +15,7 @@ Crie uma pasta na raiz com o nome sharedata e dê as devidas permissões
 
 ![alt text](https://github.com/jcluz86/Paginaweb/blob/d92a638431846a929b90548a80e360d22ce45672/Imagens/2.jpg )
 
-Baixe o script samba.sh pelo github e copie para a pasta sharedata.
+Baixe os fontes e  script samba.sh pelo github e copie para a pasta sharedata.
 
 <ul>
   <li><a href="https://github.com/jcluz86/Paginaweb">Paginaweb</a></li>
