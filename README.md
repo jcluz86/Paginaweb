@@ -13,7 +13,7 @@ Para distribuições que utilizam o apt como gerenciador de pacotes, utilize o c
 
 Crie uma pasta na raiz com o nome sharedata e dê as devidas permissões
 
-![alt text](https://github.com/jcluz86/Paginaweb/blob/657862dadfe1cd533dddf94e91486ad8014ee97c/Imagens/2.jpg "Tela de download do projeto no github")
+![alt text](https://github.com/jcluz86/Paginaweb/blob/d92a638431846a929b90548a80e360d22ce45672/Imagens/2.jpg 
 
 Baixe o script samba.sh pelo github e copie para a pasta sharedata.
 
@@ -21,13 +21,13 @@ Baixe o script samba.sh pelo github e copie para a pasta sharedata.
   <li><a href="https://github.com/jcluz86/Paginaweb">Paginaweb</a></li>
 </ul>
 
-![alt text](https://github.com/jcluz86/Paginaweb/blob/657862dadfe1cd533dddf94e91486ad8014ee97c/Imagens/3.jpg )
+![alt text](https://github.com/jcluz86/Paginaweb/blob/657862dadfe1cd533dddf94e91486ad8014ee97c/Imagens/3.jpg "Tela de download do projeto no github")
 
 ---
 
 Dê permissão de execução ao script.
 
-![alt text](https://github.com/jcluz86/Paginaweb/blob/657862dadfe1cd533dddf94e91486ad8014ee97c/Imagens/4.jpg )
+![alt text](https://github.com/jcluz86/Paginaweb/blob/d92a638431846a929b90548a80e360d22ce45672/Imagens/4.jpg )
 
 Instale o dotnet
 
