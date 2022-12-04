@@ -9,7 +9,7 @@
 Pelo terminal do seu Linux, instale o samba. 
 Para distribuições que utilizam o apt como gerenciador de pacotes, utilize o comando abaixo.
 
-![alt text](https://github.com/jcluz86/Paginaweb/blob/171d934618c54315e0b6ebfb5d06a6b944cfc28f/Imagens/1.jpg )
+![alt text](https://github.com/jcluz86/Paginaweb/blob/f00ba4d2617317c7a9b98cc2e27df746d6b6f302/Imagens/1.jpg )
 
 Crie uma pasta na raiz com o nome sharedata e dê as devidas permissões
 
