@@ -64,8 +64,8 @@ Este projeto é divido em duas partes:
 ### 🎲 Rodando o Front End (Web)
 
 ```bash
-  # Copie todos os arquivos da pasta frot-end para a pasta shareddata
-  $ cd /Paginaweb/back-end/
+  # Copie todos os arquivos da pasta front-end para a pasta shareddata
+  $ cd /shareddata/back-end/
   $ mv * /shareddata
   # Pelo seu navegador, abra o arquivo index.html
 ```
