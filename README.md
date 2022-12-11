@@ -1,5 +1,28 @@
+# Indice
 
-### Pré-requisitos
+- [Sobre](#-sobre)
+- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Pré-requisitos](#-Pré-requisitos)
+- [Como baixar o projeto](#-como-baixar-o-projeto)
+
+## 🔖&nbsp; Sobre
+
+O Sharedata tem como objetivo principal facilitar o compartilhamento de arquivos do samba, trazendo uma interface leve e intuitiva para que um leigo em informatica consiga utiliza-lo. Pode gastar seu tempo tomando um cafezinho ao invés de decorar comandos e permissões.
+
+---
+
+## 🚀 Tecnologias utilizadas
+
+O projeto foi desenvolvido utilizando as seguintes tecnologias
+
+- [HTML + CSS](https://www.w3.org/)
+- [PHP](https://www.php.net/)
+- [Dotnet](https://dotnet.microsoft.com/pt-br/)
+
+---
+
+
+## Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em seu servidor o samba.
 
@@ -29,6 +52,8 @@ $ npm run dev:server
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333>
 ```
 
+### 🎲 Rodando o Front End (servidor)
+
 <h1 align="center">
     <img src="https://ik.imagekit.io/kudysak8uv/logo2_wkzFleEF6.png">
 </h1>
@@ -41,27 +66,7 @@ $ npm run dev:server
     <a href="https://rocketmusics.herokuapp.com/">Acessar a demonstração</a>
 <h3 >
 
-# Indice
 
-- [Sobre](#-sobre)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Como baixar o projeto](#-como-baixar-o-projeto)
-
-## 🔖&nbsp; Sobre
-
-O Sharedata tem como objetivo principal facilitar o compartilhamento de arquivos do samba, trazendo uma interface leve e intuitiva para que um leigo em informatica consiga utiliza-lo. Pode gastar seu tempo tomando um cafezinho ao invés de decorar comandos e permissões.
-
----
-
-## 🚀 Tecnologias utilizadas
-
-O projeto foi desenvolvido utilizando as seguintes tecnologias
-
-- [HTML + CSS](https://www.w3.org/)
-- [PHP](https://www.php.net/)
-- [Dotnet](https://dotnet.microsoft.com/pt-br/)
-
----
 
 ## 🗂 Como baixar o projeto
 
