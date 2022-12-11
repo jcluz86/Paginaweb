@@ -3,7 +3,7 @@
 - [Sobre](#-sobre)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Pré-requisitos](#-Pré-requisitos)
-- [Como baixar o projeto](#-como-baixar-o-projeto)
+- [Como baixar e executar o projeto](#-como-baixar-e-executar-o-projeto)
 
 ## 🔖&nbsp; Sobre
 
@@ -24,12 +24,13 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 Antes de começar, você vai precisar ter instalado em seu servidor Linux o samba e o dotnet.
 
-#Para distribuições que utilizam o apt como gerenciador de pacotes, utilize os comandos abaixo.
+```bash
+  #Para distribuições que utilizam o apt como gerenciador de pacotes, utilize os comandos abaixo.
+  $ sudo apt install samba
+  $ sudo apt update && apt install -y aspnetcore-runtime-6.0
+```
 
-$ sudo apt install samba
-$ sudo apt update && apt install -y aspnetcore-runtime-6.0
-
-## 🚀 Como baixar e executar o projeto
+## 🗂 Como baixar e executar o projeto
 
 Este projeto é divido em duas partes:
 1. Back-End (servidor)
@@ -41,23 +42,21 @@ Este projeto é divido em duas partes:
 ### 🎲 Rodando o Back End (servidor)
 
 ```bash
+  # Clone este repositório
+  $ git clone <https://github.com/jcluz86/Paginaweb>
 
-# Clone este repositório
-$ git clone <https://github.com/jcluz86/Paginaweb>
+  # Pelo terminal, crie uma pasta na raiz com o nome shareddata e dê as devidas permissões
+  $ mkdir shareddata
+  $ chmod 777 -R shareddata/
 
-# Pelo terminal, crie uma pasta na raiz com o nome shareddata e dê as devidas permissões
-$ mkdir shareddata
-$ chmod 777 -R shareddata/
+  # Após baixar o repositório, copie a pasta server e a pasta script para a pasta shareddata
+  $ sudo cp -Rf server /shareddata
+  $ sudo cp -Rf script /shareddata
 
-# Após baixar o repositório, copie a pasta server e a pasta script para a pasta shareddata
-$ sudo cp -Rf server /shareddata
-$ sudo cp -Rf script /shareddata
-
-# Navegue até a pasta server e execute a aplicação
-$ cd /shareddata/server
-$ sudo dotnet run
-# O servidor iniciará na porta https:7185 - acesse <https://localhost:7185>
-
+  #Navegue até a pasta server e execute a aplicação
+  $ cd /shareddata/server
+  $ sudo dotnet run
+  # O servidor iniciará na porta https:7185 - acesse <https://localhost:7185>
 ```
 
 ### 🎲 Rodando o Front End (Web)
@@ -73,25 +72,6 @@ $ sudo dotnet run
 <h3 align="center">
     <a href="https://rocketmusics.herokuapp.com/">Acessar a demonstração</a>
 <h3 >
-
-
-
-## 🗂 Como baixar o projeto
-
-```bash
-
-    # Clonar o repositório
-    $ git clone https://github.com/danileao/rocketmusic
-
-    # Entrar no diretório
-    $ cd rocketmusic
-
-    # Instalar as dependências
-    $ yarn install
-
-    # Iniciar o projeto
-    $ yarn start
-```
 
 ---
 
