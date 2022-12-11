@@ -21,7 +21,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ---
 
-
 ## Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em seu servidor o samba.
