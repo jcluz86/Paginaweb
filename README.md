@@ -22,12 +22,14 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ## Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em seu servidor Linux o samba.
+Antes de começar, você vai precisar ter instalado em seu servidor Linux o samba e o dotnet.
 
-#Para distribuições que utilizam o apt como gerenciador de pacotes, utilize o comando abaixo.
+#Para distribuições que utilizam o apt como gerenciador de pacotes, utilize os comandos abaixo.
+
 $ sudo apt install samba
+$ sudo apt update && apt install -y aspnetcore-runtime-6.0
 
-## 🚀 Como executar o projeto
+## 🚀 Como baixar e executar o projeto
 
 Este projeto é divido em duas partes:
 1. Back-End (servidor)
@@ -43,7 +45,7 @@ Este projeto é divido em duas partes:
 # Clone este repositório
 $ git clone <https://github.com/jcluz86/Paginaweb>
 
-# Pelo terminal, cria uma pasta na raiz com o nome shareddata e dê as devidas permissões
+# Pelo terminal, crie uma pasta na raiz com o nome shareddata e dê as devidas permissões
 $ mkdir shareddata
 $ chmod 777 -R shareddata/
 
@@ -94,49 +96,6 @@ $ sudo dotnet run
 ---
 
 Desenvolvido por Andre Dias, Andre Nascimento, Brandon, Israel, Julio.
-
-
-# 
-
-
-
----
-
-
-
-
-
-
-
-
-![alt text](https://github.com/jcluz86/Paginaweb/blob/d92a638431846a929b90548a80e360d22ce45672/Imagens/2.jpg )
-
-Baixe os fontes e  script samba.sh pelo github e copie para a pasta sharedata.
-
-<ul>
-  <li><a href="https://github.com/jcluz86/Paginaweb">Paginaweb</a></li>
-</ul>
-
-![alt text](https://github.com/jcluz86/Paginaweb/blob/657862dadfe1cd533dddf94e91486ad8014ee97c/Imagens/3.jpg "Tela de download do projeto no github")
-
----
-
-Dê permissão de execução ao script.
-
-![alt text](https://github.com/jcluz86/Paginaweb/blob/d92a638431846a929b90548a80e360d22ce45672/Imagens/4.jpg )
-
-Instale o dotnet.
-
-![alt text](https://github.com/jcluz86/Paginaweb/blob/06e4e960cd2375f997ce79c6b02f36e407f2acde/Imagens/5.jpg )
-
-Crie uma nova instancia da aplicação dentro da pasta sharedata.
-
-![alt text](https://github.com/jcluz86/Paginaweb/blob/06e4e960cd2375f997ce79c6b02f36e407f2acde/Imagens/6.jpg )
-
-Execute a nova instancia.
-
-![alt text](https://github.com/jcluz86/Paginaweb/blob/06e4e960cd2375f997ce79c6b02f36e407f2acde/Imagens/7.jpg )
-
 
 
 ---
