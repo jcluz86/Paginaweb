@@ -1,6 +1,8 @@
 #!/bin/bash
 export PATH="$PATH:/sbin:/usr/sbin:usr/local/sbin"
 cp /etc/samba/smb.conf /etc/samba/smb.conf.bak
+mkdir /media/dados
+chmod 777 -R /media/dados
 mkdir /media/dados/$1
 chmod 777 -R /media/dados/$1
 echo "usershare path = /var/lib/samba/usershares/" >> /etc/samba/smb.conf

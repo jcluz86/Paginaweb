@@ -10,7 +10,7 @@ app.MapGet("/{nome}/{senha}",  async context =>
  process.UseShellExecute = false;
  process.WorkingDirectory = "/bin";
  process.FileName = "sh";
- process.Arguments = $"/shareddata/script/samba.sh {nome} {senha}";
+ process.Arguments = $"/home/julio/samba.sh {nome} {senha}";
  process.RedirectStandardOutput = true;
  System.Diagnostics.Process cmd =  System.Diagnostics.Process.Start(process);
  cmd.WaitForExit();

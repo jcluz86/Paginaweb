@@ -8,9 +8,7 @@
 ## 🔖&nbsp; Sobre
 
 O Shared Data tem como objetivo principal facilitar o compartilhamento de arquivos do samba, trazendo uma interface leve e intuitiva para que um leigo em informatica consiga utiliza-lo.
-
 ---
-
 
 ## 🚀 Tecnologias utilizadas
 
@@ -29,7 +27,6 @@ Antes de começar, você vai precisar ter instalado em seu servidor Linux o samb
 #Para distribuições que utilizam o apt como gerenciador de pacotes, utilize o comando abaixo.
 $ sudo apt install samba
 
-
 ## 🚀 Como executar o projeto
 
 Este projeto é divido em duas partes:
@@ -42,6 +39,7 @@ Este projeto é divido em duas partes:
 ### 🎲 Rodando o Back End (servidor)
 
 ```bash
+
 # Clone este repositório
 $ git clone <https://github.com/jcluz86/Paginaweb>
 
@@ -49,16 +47,15 @@ $ git clone <https://github.com/jcluz86/Paginaweb>
 $ mkdir shareddata
 $ chmod 777 -R shareddata/
 
-# Vá para a pasta server
-$ cd server
+# Após baixar o repositório, copie a pasta server e a pasta script para a pasta shareddata
+$ sudo cp -Rf server /shareddata
+$ sudo cp -Rf script /shareddata
 
-# Instale as dependências
-$ npm install
+# Navegue até a pasta server e execute a aplicação
+$ cd /shareddata/server
+$ sudo dotnet run
+# O servidor iniciará na porta https:7185 - acesse <https://localhost:7185>
 
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
-
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
 ```
 
 ### 🎲 Rodando o Front End (Web)
