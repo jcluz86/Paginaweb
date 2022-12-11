@@ -61,7 +61,7 @@ Este projeto é divido em duas partes:
 
 ```
 
-### 🎲 Rodando o Front End (Web)
+### 🎲 Rodando o Front End (web)
 
 ```bash
   # Copie todos os arquivos da pasta front-end para a pasta shareddata
