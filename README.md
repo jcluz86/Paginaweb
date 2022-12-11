@@ -7,9 +7,10 @@
 
 ## 🔖&nbsp; Sobre
 
-O Sharedata tem como objetivo principal facilitar o compartilhamento de arquivos do samba, trazendo uma interface leve e intuitiva para que um leigo em informatica consiga utiliza-lo. Pode gastar seu tempo tomando um cafezinho ao invés de decorar comandos e permissões.
+O Shared Data tem como objetivo principal facilitar o compartilhamento de arquivos do samba, trazendo uma interface leve e intuitiva para que um leigo em informatica consiga utiliza-lo.
 
 ---
+
 
 ## 🚀 Tecnologias utilizadas
 
@@ -23,21 +24,30 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ## Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em seu servidor o samba.
+Antes de começar, você vai precisar ter instalado em seu servidor Linux o samba.
 
-Para distribuições que utilizam o apt como gerenciador de pacotes, utilize o comando abaixo.
+#Para distribuições que utilizam o apt como gerenciador de pacotes, utilize o comando abaixo.
+$ sudo apt install samba
 
-![alt text](https://github.com/jcluz86/Paginaweb/blob/f00ba4d2617317c7a9b98cc2e27df746d6b6f302/Imagens/1.jpg )
+
+## 🚀 Como executar o projeto
+
+Este projeto é divido em duas partes:
+1. Back-End (servidor)
+2. Front-End (web)
+
+💡O Front-end necessita que o Back-end esteja sendo executado para funcionar.
 
 
 ### 🎲 Rodando o Back End (servidor)
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
+$ git clone <https://github.com/jcluz86/Paginaweb>
 
-# Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
+# Pelo terminal, cria uma pasta na raiz com o nome shareddata e dê as devidas permissões
+$ mkdir shareddata
+$ chmod 777 -R shareddata/
 
 # Vá para a pasta server
 $ cd server
@@ -51,7 +61,7 @@ $ npm run dev:server
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333>
 ```
 
-### 🎲 Rodando o Front End (servidor)
+### 🎲 Rodando o Front End (Web)
 
 <h1 align="center">
     <img src="https://ik.imagekit.io/kudysak8uv/logo2_wkzFleEF6.png">
@@ -86,23 +96,21 @@ $ npm run dev:server
 
 ---
 
-Desenvolvido 💜 por Daniele Leão Evangelista
+Desenvolvido por Andre Dias, Andre Nascimento, Brandon, Israel, Julio.
 
 
-# Sharedata
-## Breve resumo
+# 
+
 
 
 ---
 
-## Preparando o ambiente e baixando scripts
-
-Pelo terminal do seu Linux, instale o samba. 
 
 
 
 
-Crie uma pasta na raiz com o nome sharedata e dê as devidas permissões
+
+
 
 ![alt text](https://github.com/jcluz86/Paginaweb/blob/d92a638431846a929b90548a80e360d22ce45672/Imagens/2.jpg )
 
