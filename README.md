@@ -2,8 +2,9 @@
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+[SAMBA]
+![alt text](https://github.com/jcluz86/Paginaweb/blob/f00ba4d2617317c7a9b98cc2e27df746d6b6f302/Imagens/1.jpg )
+
 
 ### 🎲 Rodando o Back End (servidor)
 
@@ -46,7 +47,7 @@ $ npm run dev:server
 
 ## 🔖&nbsp; Sobre
 
-O projeto **RocketMusic** é um e-commerce que foi criado dentro do curso **Bootcamp GoStack** com o intuito de colocarmos em prática todo conteúdo estudado durante o curso.
+O Sharedata tem como objetivo principal facilitar o compartilhamento de arquivos do samba, trazendo uma interface leve e intuitiva para que um leigo em informatica consiga utiliza-lo. Pode gastar seu tempo tomando um cafezinho ao invés de decorar comandos e permissões.
 
 ---
 
@@ -54,9 +55,9 @@ O projeto **RocketMusic** é um e-commerce que foi criado dentro do curso **Boot
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-- [ReactJS](https://reactjs.org)
-- [Redux](https://redux.org)
-- [Axios](https://github.com/axios/axios)
+- [HTML + CSS](https://www.w3.org/)
+- [PHP](https://www.php.net/)
+- [Dotnet](https://dotnet.microsoft.com/pt-br/)
 
 ---
 
@@ -85,7 +86,7 @@ Desenvolvido 💜 por Daniele Leão Evangelista
 # Sharedata
 ## Breve resumo
 
-O Sharedata tem como objetivo principal facilitar o compartilhamento de arquivos do samba, trazendo uma interface leve e intuitiva para que um leigo em informatica consiga utiliza-lo. Pode gastar seu tempo tomando um cafezinho ao invés de decorar comandos e permissões.
+
 ---
 
 ## Preparando o ambiente e baixando scripts
@@ -93,7 +94,7 @@ O Sharedata tem como objetivo principal facilitar o compartilhamento de arquivos
 Pelo terminal do seu Linux, instale o samba. 
 Para distribuições que utilizam o apt como gerenciador de pacotes, utilize o comando abaixo.
 
-![alt text](https://github.com/jcluz86/Paginaweb/blob/f00ba4d2617317c7a9b98cc2e27df746d6b6f302/Imagens/1.jpg )
+
 
 Crie uma pasta na raiz com o nome sharedata e dê as devidas permissões
 
