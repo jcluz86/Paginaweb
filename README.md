@@ -1,4 +1,4 @@
-# Indice
+## Indice
 
 - [Sobre](#-sobre)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
@@ -6,7 +6,9 @@
 - [Como baixar e executar o projeto](#-como-baixar-e-executar-o-projeto)
 
 ## 🔖&nbsp; Sobre
+
 O Shared Data tem como objetivo principal facilitar o compartilhamento de arquivos do samba, trazendo uma interface leve e intuitiva para que um leigo em informatica consiga utiliza-lo.
+
 ---
 
 ## 🚀 Tecnologias utilizadas
