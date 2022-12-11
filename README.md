@@ -1,7 +1,7 @@
 # Sharedata
 ## Breve resumo
 
-### O Sharedata tem como objetivo principal facilitar o compartilhamento de arquivos do samba, trazendo uma interface leve e intuitiva para que um leigo em informatica consiga utiliza-lo. Pode gastar seu tempo tomando um cafezinho ao invés de decorar comandos e permissões.
+O Sharedata tem como objetivo principal facilitar o compartilhamento de arquivos do samba, trazendo uma interface leve e intuitiva para que um leigo em informatica consiga utiliza-lo. Pode gastar seu tempo tomando um cafezinho ao invés de decorar comandos e permissões.
 ---
 
 ## Preparando o ambiente e baixando scripts
