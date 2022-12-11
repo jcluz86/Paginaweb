@@ -50,26 +50,29 @@ Este projeto é divido em duas partes:
   $ mkdir shareddata
   $ chmod 777 -R shareddata/
 
-  # Após baixar o repositório, entre na pasta back-end e copie a pasta server e a pasta script para a pasta shareddata
+  # Após baixar o repositório, copie a pasta server e a pasta script para a pasta shareddata
   $ sudo cp -Rf server /shareddata
   $ sudo cp -Rf script /shareddata
 
   #Navegue até a pasta server e execute a aplicação
   $ cd /shareddata/server
   $ sudo dotnet run
-  # O servidor iniciará na porta https:7185
-
+  # O servidor iniciará na porta https:7185 - acesse <https://localhost:7185>
 ```
 
 ### 🎲 Rodando o Front End (Web)
 
-```bash
-  # Copie todos os arquivos da pasta frot-end para a pasta shareddata
-  $ cd /Paginaweb/back-end/
-  $ mv * /shareddata
-  # Pelo seu navegador, abra o arquivo index.html
-```
+<h1 align="center">
+    <img src="https://ik.imagekit.io/kudysak8uv/logo2_wkzFleEF6.png">
+</h1>
 
+<h1>
+    <img src="public/apresentacao.gif">
+</h1>
+
+<h3 align="center">
+    <a href="https://rocketmusics.herokuapp.com/">Acessar a demonstração</a>
+<h3 >
 
 ---
 
