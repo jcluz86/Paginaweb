@@ -1,8 +1,10 @@
 
 ### Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[SAMBA]
+Antes de começar, você vai precisar ter instalado em seu servidor o samba.
+
+Para distribuições que utilizam o apt como gerenciador de pacotes, utilize o comando abaixo.
+
 ![alt text](https://github.com/jcluz86/Paginaweb/blob/f00ba4d2617317c7a9b98cc2e27df746d6b6f302/Imagens/1.jpg )
 
 
@@ -92,7 +94,7 @@ Desenvolvido 💜 por Daniele Leão Evangelista
 ## Preparando o ambiente e baixando scripts
 
 Pelo terminal do seu Linux, instale o samba. 
-Para distribuições que utilizam o apt como gerenciador de pacotes, utilize o comando abaixo.
+
 
 
 
