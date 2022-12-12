@@ -7,7 +7,7 @@
 
 ## 🔖&nbsp; Sobre
 
-O Shared Data tem como objetivo principal facilitar o compartilhamento de arquivos do samba, trazendo uma interface leve e intuitiva para que um leigo em informática consiga utilizá-lo.
+O Shared Data tem como objetivo principal facilitar o compartilhamento de arquivos no samba, trazendo uma interface leve e intuitiva para que qualquer usuário consiga utilizá-lo.
 
 ---
 
@@ -44,7 +44,7 @@ Este projeto é divido em duas partes:
 
 ```bash
   # Clone este repositório
-  $ git clone <https://github.com/jcluz86/Paginaweb>
+  $ git clone <https://github.com/jcluz86/shareddata>
 
   # Pelo terminal, crie uma pasta na raiz com o nome shareddata e dê as devidas permissões
   $ mkdir shareddata
@@ -73,7 +73,7 @@ Este projeto é divido em duas partes:
 
 ---
 
-Desenvolvido por Andre Dias, Andre Nascimento, Brandon, Israel, Julio.
+Desenvolvido por GRUPO 3, CURSO SUPERIOR DE TECNOLOGIA EM REDES DE COMPUTADORES / PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS.
 
 
 ---
