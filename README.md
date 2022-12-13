@@ -73,7 +73,7 @@ Este projeto é divido em duas partes:
 
 ---
 
-Desenvolvido por grupo 3, curso superior de Tecnologia em Redes de Computadores / Pontifícia Universidade Católica de Minas Gerais.
+Desenvolvido por grupo 3 do curso superior de Tecnologia em Redes de Computadores / Pontifícia Universidade Católica de Minas Gerais.
 
 
 ---
